@@ -1,1 +1,1 @@
-# JavaStudy
+Day1 : Project Setup and Configuration
